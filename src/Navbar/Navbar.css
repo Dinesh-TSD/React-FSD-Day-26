@@ -1,0 +1,34 @@
+.container-fluid{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid gray;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    
+}
+nav{
+    height: 40px;
+    width: 100%;
+}
+nav ul li{
+    padding: 10px;
+}
+#link{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+#link:hover{
+    background-color: rgb(238, 238, 238);
+    color: rgb(0, 196, 0);
+    text-decoration: underline;
+}
+.active{
+    color: rgb(0, 196, 0) !important;
+    background-color: aliceblue;
+    text-decoration: underline;
+}
