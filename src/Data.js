@@ -30,7 +30,7 @@ let data=[
     {
         id:5,
         category:'datascience',
-        img:'https://static.guvi.in/course-thumbnail/ml.png',
+        img:'https://static.guvi.in/course-thumbnail/webps/python.webp',
         title:'Mechine Learning',
         description:'Machine learning is a field of artificial intelligence that focuses on the development of algorithms and models.',
     },
